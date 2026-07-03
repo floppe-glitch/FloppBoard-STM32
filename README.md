@@ -45,3 +45,5 @@ Git repository for my STM32F030K6Tx
   When NOT held down, the MCU will boot its ROM bootloader (USART bridge) -> you can program it freely.
   When held down, the MCU will boot your user-flashed memory (your program basically)
 
+
+[FloppBoard_STM32.zip](https://github.com/user-attachments/files/29643235/FloppBoard_STM32.zip)
