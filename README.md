@@ -1,6 +1,14 @@
 # FloppBoard-STM32
 Git repository for my STM32F030K6Tx
 ---------
+
+!! WARNING !!
+
+
+This PCB does not include short-circuit or reverse-power protection. Connecting power to the output wrongly or shorting the rails could permanently damage the board.
+This is a feature, not a bug.
+
+
 ## FEATURES
 
 - STM32 Arm Cortex M0 @ 48MHz
@@ -11,7 +19,6 @@ Git repository for my STM32F030K6Tx
 - [x] Overvoltage protection
 - [x] GND, 5V, and 3.3V (3V3) Pin headers
 - [x] TONS of GPIO
-- [x] TVS Diode Protection
 
 # Pinout description.
 ---------
