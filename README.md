@@ -8,4 +8,4 @@ Git repository for my STM32F030K6Tx
 - 32kb flash memory
 - 4kb SRAM
 
-[x] USART support and a PushButton to select from programming mode to user-flash execution mode.
+[x]USART support and a PushButton to select from programming mode to user-flash execution mode.
